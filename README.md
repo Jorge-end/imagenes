@@ -1,2 +1,0 @@
-# imagenes
-Repositorio de imagenes
